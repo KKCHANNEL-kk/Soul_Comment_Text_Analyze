@@ -1,0 +1,1497 @@
+{
+  "feed": {
+    "author": {
+      "name": { "label": "iTunes Store" },
+      "uri": { "label": "http://www.apple.com/uk/itunes/" }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id503978605?l=en"
+          },
+          "name": { "label": "Marco Versace" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T10:54:42-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8423950009" },
+        "title": { "label": "可不可以恢复我的账号啊！！！！！！！！" },
+        "content": {
+          "label": "为什么我的账号直接被注销了？不是有七天缓冲期的吗！！！！我还没和朋友说再见啊！！怎么办啊！！！！！",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1278823192?l=en"
+          },
+          "name": { "label": "1-2.0" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T10:14:28-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8423841591" },
+        "title": { "label": "垃圾软件，几年了还这么不稳定" },
+        "content": {
+          "label": "到处是bug，不管是视频，还是语音，没有不出bug的地方，不管你是外放还是用耳机，全部容易有回声，网络明明没问题，非要显示自己或者对方网络不佳",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1085109314?l=en"
+          },
+          "name": { "label": "吸烟怪男" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T08:59:41-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8423625408" },
+        "title": { "label": "环境恶劣" },
+        "content": {
+          "label": "官方能不能设置一个考题，只有完成考题才可以注册聊天，挺好的一个交友软件环境太差了，很影响心情，半夜气的我睡不着觉。",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1299665372?l=en"
+          },
+          "name": { "label": "Liu、66666" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T07:44:16-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8423389007" },
+        "title": { "label": "太🐮了" },
+        "content": {
+          "label": "感谢🙏soul 让我认识了知心大姐姐",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1002668916?l=en"
+          },
+          "name": { "label": "赶紧下线吧，求求了" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T06:10:10-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8423073064" },
+        "title": { "label": "不推荐" },
+        "content": {
+          "label": "平平无奇的找不到，匹配到了聊不下去，然后每天后台挂着还费很多电，垃圾。。。",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id540297659?l=en"
+          },
+          "name": { "label": "carol珊珊珊珊" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T04:51:13-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8422812419" },
+        "title": { "label": "不值得玩" },
+        "content": {
+          "label": "我也是老用户了，看了太多喷子了，这个软件应该叫怼怼。这些人没事就评论一些诋毁你的话，有抑郁症去看医生好吗？这个社交软件的用户真的不咋滴，玩了能气死。劝你别上手",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1385602268?l=en"
+          },
+          "name": { "label": "森林公园路的尽头的面试" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T03:39:32-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8422599817" },
+        "title": { "label": "不保护女性玩家" },
+        "content": {
+          "label": "女性玩家在此app内不被保护，女性玩家在狼人杀功能房间没事当众被骂**女，却把女生号封了不封男的号。不分黑白的软件？",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1085973114?l=en"
+          },
+          "name": { "label": "红刘刘" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T02:58:32-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8422489404" },
+        "title": { "label": "网恋被骗5块钱" },
+        "content": {
+          "label": "里面好多人妖",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1178464469?l=en"
+          },
+          "name": { "label": "爱吃豆腐的策划" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T00:51:38-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8422169864" },
+        "title": { "label": "#懂得都懂" },
+        "content": {
+          "label": "玩了这么久，其他的没什么变化，充值商品到是多了不少，莫名禁言封号也是无语了，一个社交软件给用户带来的体验应该是有趣而充满期待的，一昧的圈钱，而不懂得怎么样去留住用户，用户的反馈也得不到及时合理的解决，实在是让人失望",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1091212497?l=en"
+          },
+          "name": { "label": "我什么都想得到" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T00:24:08-07:00" },
+        "im:rating": { "label": "3" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8422102574" },
+        "title": { "label": "画质太低，并且容易消息延迟" },
+        "content": {
+          "label": "为什么不可以上传原图呢？上传后的图片都被加了层滤镜。",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1371971651?l=en"
+          },
+          "name": { "label": "James23你daddy" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T00:23:25-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8422100793" },
+        "title": { "label": "不管有没有违规举报就封号" },
+        "content": {
+          "label": "这个APP真的不能再垃圾了，没有好人不说还有在这上面卖的这都没事 我也很想知道官方一天在管理些什么 坏人没整治 好人都报废",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1042253060?l=en"
+          },
+          "name": { "label": "小琛ya" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-05T00:16:23-07:00" },
+        "im:rating": { "label": "4" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8422083805" },
+        "title": { "label": "编辑瞬间" },
+        "content": {
+          "label": "怎么没有编辑已发送瞬间的功能！",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1292055311?l=en"
+          },
+          "name": { "label": "ajdbrbjfnfkdksnn" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T23:03:45-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8421910782" },
+        "title": { "label": "广告我服了！" },
+        "content": {
+          "label": "开发人员脑子想的什么东西？开屏广告就算了，我没点就自己转到对应的app还直接给我打开了？恰烂钱？",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1216143772?l=en"
+          },
+          "name": { "label": "周Mr122" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T21:55:15-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8421756144" },
+        "title": { "label": "不好用，一点都不人性化" },
+        "content": {
+          "label": "太不人性化了，登录不了，老提示异常，勒设软件",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1295217822?l=en"
+          },
+          "name": { "label": "辣几爱聊" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T21:05:19-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8421643668" },
+        "title": { "label": "这垃圾软件千万不要下" },
+        "content": {
+          "label": "哎呀这垃圾软件开始收费了？谁给你的勇气收费？开始要饭了？",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id175209998?l=en"
+          },
+          "name": { "label": "孟无喧" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T20:20:07-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8421536907" },
+        "title": { "label": "还行" },
+        "content": {
+          "label": "这个软件三天一小崩溃五天一大崩溃。其他的都不错。",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id584792891?l=en"
+          },
+          "name": { "label": "小星星小小00" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T16:26:51-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8420942661" },
+        "title": { "label": "恶心的软件" },
+        "content": {
+          "label": "如上！再下载我不得好死！",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1276863486?l=en"
+          },
+          "name": { "label": "谁家甜甜嘞" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T09:57:05-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8420044191" },
+        "title": { "label": "垃圾" },
+        "content": {
+          "label": "太垃圾了，作为一个社交软件语音经常掉线，知道为什么最后落地到微信了吧？",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1310762927?l=en"
+          },
+          "name": { "label": "挺起腰板走爵路" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T06:44:32-07:00" },
+        "im:rating": { "label": "2" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8419497729" },
+        "title": { "label": "【救命】不要给听爵士的人推荐听民谣的" },
+        "content": {
+          "label": "若一人标签为爵士乐，另一人标签为民谣。麻烦不要推荐给我，真的当头一棒，不是鄙视，是我真的无法喜欢民谣。这样，再多的匹配都是令我更加反感。\n来自一个感性的女生的想法，望采纳。",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id650247657?l=en"
+          },
+          "name": { "label": "47788247" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T03:23:17-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8418885114" },
+        "title": { "label": "动不动挨封" },
+        "content": {
+          "label": "动不动就被封",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id902858809?l=en"
+          },
+          "name": { "label": "大喜Laraine" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-04T01:22:08-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8418598772" },
+        "title": { "label": "很好的软件" },
+        "content": { "label": "很好", "attributes": { "type": "text" } },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id982700940?l=en"
+          },
+          "name": { "label": "凡仲程" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T21:43:00-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8418146868" },
+        "title": { "label": "好软件 伴一生" },
+        "content": {
+          "label": "里面都是充值页面 这就算了 网络暴力 现在卸载了 还天天发短信让下载",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1030764573?l=en"
+          },
+          "name": { "label": "林澈er" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T19:08:11-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8417821039" },
+        "title": { "label": "无故封号" },
+        "content": {
+          "label": "我真的没有不当言论，直接被强制掉线，然后强制封号",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id264653509?l=en"
+          },
+          "name": { "label": "阿扎尔177" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T18:07:43-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8417682253" },
+        "title": { "label": "很nice" },
+        "content": {
+          "label": "能结交更多新朋友",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id446896067?l=en"
+          },
+          "name": { "label": "12957lens" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T17:51:20-07:00" },
+        "im:rating": { "label": "2" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8417643727" },
+        "title": { "label": "22年3月的新UI好丑啊" },
+        "content": { "label": "UI 丑", "attributes": { "type": "text" } },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1249083541?l=en"
+          },
+          "name": { "label": "456789314" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T13:22:32-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8417052570" },
+        "title": { "label": "下载不了？" },
+        "content": {
+          "label": "下载还要钱？",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id691972228?l=en"
+          },
+          "name": { "label": "Guoguniang" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T12:04:11-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8416878689" },
+        "title": { "label": "界面颜色突然变红色" },
+        "content": {
+          "label": "红色界面好不喜欢",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id701374326?l=en"
+          },
+          "name": { "label": "37°cLady" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T05:34:34-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8415830702" },
+        "title": { "label": "相互学习" },
+        "content": {
+          "label": "明天坚持开派对公益  解决问题  \n最近老限流学习的进不了房间  为什么",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1155299467?l=en"
+          },
+          "name": { "label": "两毛五包宿" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T05:22:43-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8415794506" },
+        "title": { "label": "提议修整" },
+        "content": {
+          "label": "没有超级可可爱爱的表情，有趣的人太少了",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1384915592?l=en"
+          },
+          "name": { "label": "脱单男孩" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T02:52:24-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8415377411" },
+        "title": { "label": "梦想" },
+        "content": {
+          "label": "希望让我脱单🙏🏻🙏🏻🙏🏻",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1384899760?l=en"
+          },
+          "name": { "label": "凡也温柔" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T01:45:41-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8415226181" },
+        "title": { "label": "我趣" },
+        "content": {
+          "label": "怎么找回以前的号呀\n找不到我知道会尬死",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1175537997?l=en"
+          },
+          "name": { "label": "老老廊" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-03T01:33:34-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8415199485" },
+        "title": { "label": "言论合法权益" },
+        "content": {
+          "label": "不要动不动就封，每个人都有言论自由，只要不犯法",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1212775686?l=en"
+          },
+          "name": { "label": "化学卷子辛苦说不出方不方便都不" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T23:46:00-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8414974088" },
+        "title": { "label": "一般般" },
+        "content": {
+          "label": "啥都要钱，里面都是炫这炫那的、不知道的还以为以为我下载了个懂车app",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1065826347?l=en"
+          },
+          "name": { "label": "黑妹2120" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T23:27:09-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8414935172" },
+        "title": { "label": "垃圾软件" },
+        "content": {
+          "label": "给很多素质不高的人提供了平台，影响极坏",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id983558350?l=en"
+          },
+          "name": { "label": "打假圣手。111" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T22:34:25-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8414828559" },
+        "title": { "label": "垃圾软件" },
+        "content": {
+          "label": "根本没人说话。没意思。",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id550782171?l=en"
+          },
+          "name": { "label": "银月大人" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T22:05:24-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8414770852" },
+        "title": { "label": "普信男不多，说着别人普信男的普信女多去了" },
+        "content": {
+          "label": "哪来的自信？长得一般P图美颜照骗直接10分，结果奔现还是一个职校的家里农村的，出于礼貌见面请她去必胜客，她给我来一句我可以打8分...我差点笑出声...还说自己家里复式别墅二层...农村不都是那种二层的...生怕别人看不起... 这位姐姐语出惊人...我都不想多说了...奔现6次 其中四次翻车在soul 两次在赫兹 我只想说自己家里条件一般 长的也一般在社交软件上哪来的底气在这 嫌这嫌那的？",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1245665411?l=en"
+          },
+          "name": { "label": "熬汤粗腿" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T21:29:23-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8414699467" },
+        "title": { "label": "差评" },
+        "content": {
+          "label": "审核速度太慢了，影响我看妹妹！下次记得审核快一点！",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1285805298?l=en"
+          },
+          "name": { "label": "爷爷一直在" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T18:21:45-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8414288288" },
+        "title": { "label": "哦哦哦" },
+        "content": {
+          "label": "希望能找到合适的对象",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id960434195?l=en"
+          },
+          "name": { "label": "Lt-kim" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T18:00:40-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8414238096" },
+        "title": { "label": "音效不能自己设置？" },
+        "content": {
+          "label": "能不能自己设置匹配的音乐开关？\n我一点都不喜欢灵魂匹配的时候放的音乐\n明明放的很小声\n麻烦加个开关吧！\n匹配的时候不需要声音音乐",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id592133823?l=en"
+          },
+          "name": { "label": "随意753" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T16:02:25-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8413967252" },
+        "title": { "label": "垃圾" },
+        "content": {
+          "label": "动不动就封号，垃圾",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id346729729?l=en"
+          },
+          "name": { "label": "pgkujwwju" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T11:49:37-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8413418162" },
+        "title": { "label": "咱说的能不能把语音这个功能优化一下吗？" },
+        "content": {
+          "label": "做个iOS系统语音能功能能不能好好整整？切后台之后看其他软件视频，直接掉线。要不然就卡死，能不能优化一下？？？",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id705819778?l=en"
+          },
+          "name": { "label": "soul真恶心" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T09:50:35-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8413137760" },
+        "title": { "label": "语音匹配的蝻人都是精虫上脑吗？" },
+        "content": {
+          "label": "晚上碰到的普信男 一上来就问人家鹿吗？有病吧！举报也没有反馈，净出些恶心人的新玩法！funny mom de pee",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1142610464?l=en"
+          },
+          "name": { "label": "dgenxgwjuxgwj" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T07:40:58-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8412791899" },
+        "title": { "label": "垃圾" },
+        "content": {
+          "label": "什么垃圾软件 我玩个狼人杀 我没骂人在那里说我骂人举报我 我真的是无语了",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1050150736?l=en"
+          },
+          "name": { "label": "666好好干" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T07:01:35-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8412676486" },
+        "title": { "label": "不错不错" },
+        "content": { "label": "干就完了", "attributes": { "type": "text" } },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1103858598?l=en"
+          },
+          "name": { "label": "soulerr" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T05:23:54-07:00" },
+        "im:rating": { "label": "5" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8412381065" },
+        "title": { "label": "有趣的灵魂" },
+        "content": {
+          "label": "不同层次的人 巅峰了我的认知",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id407373817?l=en"
+          },
+          "name": { "label": "1131210386" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T03:06:08-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8411992646" },
+        "title": { "label": "烦不烦人啊" },
+        "content": {
+          "label": "我都注销了 还发短信 说什么又有神秘人关注你了 😅😅别搞这种虚假宣传了",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id974693257?l=en"
+          },
+          "name": { "label": "河东高轩" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T01:37:45-07:00" },
+        "im:rating": { "label": "3" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8411789179" },
+        "title": { "label": "不会玩的小哥哥小姐姐" },
+        "content": {
+          "label": "建议不会玩的不要玩，不然会恶心到，我现在就注销了",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id481670151?l=en"
+          },
+          "name": { "label": "Shawna00" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T00:48:17-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8411682496" },
+        "title": { "label": "差劲👎" },
+        "content": {
+          "label": "玩了一千多天也见不到几个新人\n这几百万用户都是花钱买来的吧\n发个瞬间没人看的\n跟个单机游戏似的\n我还不如写在日记本或者备忘录上\n最垃圾的软件之一",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id391283350?l=en"
+          },
+          "name": { "label": "我 还 是 我77 我" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-02T00:26:07-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8411635036" },
+        "title": { "label": "太差劲  对于随便辱骂的不给予处理" },
+        "content": {
+          "label": "这个软件太垃圾 对于随便辱骂的不给予解决处理  到底这个软件管不管随便骂人攻击人的 请问 举报了给个处理结果",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id537502280?l=en"
+          },
+          "name": { "label": "家园呢" },
+          "label": ""
+        },
+        "updated": { "label": "2022-03-01T22:37:24-07:00" },
+        "im:rating": { "label": "1" },
+        "im:version": { "label": "4.20.0" },
+        "id": { "label": "8411408502" },
+        "title": { "label": "差评" },
+        "content": {
+          "label": "乱七八糟的人 身份都是假的 还有诈骗的 骗子在里面 你们都不管 举报都不管 破软件",
+          "attributes": { "type": "text" }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1032287195&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": { "label": "0" },
+        "im:contentType": {
+          "attributes": { "term": "Application", "label": "Application" }
+        },
+        "im:voteCount": { "label": "0" }
+      }
+    ],
+    "updated": { "label": "2022-03-06T18:17:34-07:00" },
+    "rights": { "label": "Copyright 2008 Apple Inc." },
+    "title": { "label": "iTunes Store: Customer Reviews" },
+    "icon": { "label": "http://itunes.apple.com/favicon.ico" },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://apps.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=cn&id=29099&l=en"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://mzstoreservices-int-st.itunes.apple.com/rss/customerreviews/page=1/id=1032287195/sortby=mostrecent/json?l=en&&cc=cn"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/page=1/id=1032287195/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=1/id=1032287195/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/page=10/id=1032287195/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=1/id=1032287195/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/page=1/id=1032287195/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=1/id=1032287195/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/page=2/id=1032287195/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=1/id=1032287195/sortby=mostrecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://mzstoreservices-int-st.itunes.apple.com/rss/customerreviews/page=1/id=1032287195/sortby=mostrecent/json?l=en&&cc=cn"
+    }
+  }
+}
